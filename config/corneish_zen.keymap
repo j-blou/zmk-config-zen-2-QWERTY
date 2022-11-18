@@ -24,7 +24,7 @@
    &kp TAB   &kp Q &kp W &kp F &kp P &kp B   &kp J &kp L  &kp U     &kp Y   &kp SEMI  &kp BSPC
    &kp BKSP  &kp A &kp R &kp S &kp T &kp G   &kp M &kp N  &kp E     &kp I   &kp O     &kp RET
    &kp LCTRL &kp Z &kp X &kp C &kp D &kp V   &kp K &kp H  &kp COMMA &kp DOT &kp QMARK &kp ESC
-                  &kp LGUI &kp SPACE &kp mo 1   &mo 2 &kp LSHFT &kp RALT
+                   &kp LGUI &kp SPACE &kp mo 1   &mo 2 &kp LSHFT &kp RALT
                   
                         >;
                 };
@@ -52,7 +52,7 @@
 // | CTRL |     |     |     |     |     |   |    | LFT  | DWN | RGT |     |  ESC |
 //                    | GUI | SPC |     |   |    | SHFT | ALT |
                         bindings = <
-   &kp TAB    &kp F1       &kp F2       &kp F3       &kp F4       &kp F5         &kp F6   &kp F7    &kp F8.   &kp F9    &kp F0 &kp BSPC
+   &kp TAB    &kp F1       &kp F2       &kp F3       &kp F4       &kp F5         &kp F6   &kp F7    &kp F8    &kp F9    &kp F0 &kp BSPC
    &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4   &trans   &trans    &kp UP    &trans    &trans &kp RET
    &kp LSHFT  &trans       &trans       &trans       &trans       &trans         &trans   &kp LEFT  &kp DOWN  &kp RIGHT &trans &kp ESC
                           	            &kp LGUI     &kp SPACE    &trans         &trans   &kp LSHFT &kp RALT
